@@ -18,6 +18,7 @@
 		A66DABA02A12DFE10071D0F8 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DAB9F2A12DFE10071D0F8 /* TextView.swift */; };
 		A66DABA22A12E2610071D0F8 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABA12A12E2610071D0F8 /* ButtonView.swift */; };
 		A66DABA42A12E8280071D0F8 /* TextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABA32A12E8280071D0F8 /* TextFieldView.swift */; };
+		A66DABA62A12F4B80071D0F8 /* TextEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABA52A12F4B80071D0F8 /* TextEditorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		A66DAB9F2A12DFE10071D0F8 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		A66DABA12A12E2610071D0F8 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 		A66DABA32A12E8280071D0F8 /* TextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldView.swift; sourceTree = "<group>"; };
+		A66DABA52A12F4B80071D0F8 /* TextEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				A66DAB9F2A12DFE10071D0F8 /* TextView.swift */,
 				A66DABA12A12E2610071D0F8 /* ButtonView.swift */,
 				A66DABA32A12E8280071D0F8 /* TextFieldView.swift */,
+				A66DABA52A12F4B80071D0F8 /* TextEditorView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
 			);
@@ -166,6 +169,7 @@
 				A66DAB9C2A12DA220071D0F8 /* StateView.swift in Sources */,
 				A66DAB882A12C0840071D0F8 /* SwiftUI_tutorialApp.swift in Sources */,
 				A66DAB982A12D0F50071D0F8 /* ImagesView.swift in Sources */,
+				A66DABA62A12F4B80071D0F8 /* TextEditorView.swift in Sources */,
 				A66DABA42A12E8280071D0F8 /* TextFieldView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
