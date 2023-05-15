@@ -12,7 +12,8 @@ struct SwiftUI_tutorialApp: App {
     var body: some Scene {
         WindowGroup {
 //            StacksView()
-            ButtonView()
+//            ButtonView()
+            TextFieldView()
         }
     }
 }
