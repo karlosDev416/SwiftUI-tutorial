@@ -15,6 +15,7 @@
 		A66DAB9A2A12D77E0071D0F8 /* IconsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DAB992A12D77E0071D0F8 /* IconsView.swift */; };
 		A66DAB9C2A12DA220071D0F8 /* StateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DAB9B2A12DA220071D0F8 /* StateView.swift */; };
 		A66DAB9E2A12DBDE0071D0F8 /* LabelsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DAB9D2A12DBDE0071D0F8 /* LabelsView.swift */; };
+		A66DABA02A12DFE10071D0F8 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DAB9F2A12DFE10071D0F8 /* TextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		A66DAB992A12D77E0071D0F8 /* IconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsView.swift; sourceTree = "<group>"; };
 		A66DAB9B2A12DA220071D0F8 /* StateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateView.swift; sourceTree = "<group>"; };
 		A66DAB9D2A12DBDE0071D0F8 /* LabelsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelsView.swift; sourceTree = "<group>"; };
+		A66DAB9F2A12DFE10071D0F8 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
 				A66DAB9D2A12DBDE0071D0F8 /* LabelsView.swift */,
+				A66DAB9F2A12DFE10071D0F8 /* TextView.swift */,
 			);
 			path = "SwiftUI-tutorial";
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				A66DAB8A2A12C0840071D0F8 /* StacksView.swift in Sources */,
 				A66DAB9E2A12DBDE0071D0F8 /* LabelsView.swift in Sources */,
 				A66DAB9A2A12D77E0071D0F8 /* IconsView.swift in Sources */,
+				A66DABA02A12DFE10071D0F8 /* TextView.swift in Sources */,
 				A66DAB9C2A12DA220071D0F8 /* StateView.swift in Sources */,
 				A66DAB882A12C0840071D0F8 /* SwiftUI_tutorialApp.swift in Sources */,
 				A66DAB982A12D0F50071D0F8 /* ImagesView.swift in Sources */,
