@@ -20,6 +20,7 @@
 		A66DABA42A12E8280071D0F8 /* TextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABA32A12E8280071D0F8 /* TextFieldView.swift */; };
 		A66DABA62A12F4B80071D0F8 /* TextEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABA52A12F4B80071D0F8 /* TextEditorView.swift */; };
 		A66DABA82A12F8240071D0F8 /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABA72A12F8240071D0F8 /* DatePickerView.swift */; };
+		A66DABAA2A12FA430071D0F8 /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABA92A12FA430071D0F8 /* ColorPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		A66DABA32A12E8280071D0F8 /* TextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldView.swift; sourceTree = "<group>"; };
 		A66DABA52A12F4B80071D0F8 /* TextEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorView.swift; sourceTree = "<group>"; };
 		A66DABA72A12F8240071D0F8 /* DatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerView.swift; sourceTree = "<group>"; };
+		A66DABA92A12FA430071D0F8 /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				A66DABA32A12E8280071D0F8 /* TextFieldView.swift */,
 				A66DABA52A12F4B80071D0F8 /* TextEditorView.swift */,
 				A66DABA72A12F8240071D0F8 /* DatePickerView.swift */,
+				A66DABA92A12FA430071D0F8 /* ColorPickerView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
 			);
@@ -172,6 +175,7 @@
 				A66DABA02A12DFE10071D0F8 /* TextView.swift in Sources */,
 				A66DAB9C2A12DA220071D0F8 /* StateView.swift in Sources */,
 				A66DAB882A12C0840071D0F8 /* SwiftUI_tutorialApp.swift in Sources */,
+				A66DABAA2A12FA430071D0F8 /* ColorPickerView.swift in Sources */,
 				A66DAB982A12D0F50071D0F8 /* ImagesView.swift in Sources */,
 				A66DABA62A12F4B80071D0F8 /* TextEditorView.swift in Sources */,
 				A66DABA42A12E8280071D0F8 /* TextFieldView.swift in Sources */,
