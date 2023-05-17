@@ -22,6 +22,7 @@
 		A66DABA82A12F8240071D0F8 /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABA72A12F8240071D0F8 /* DatePickerView.swift */; };
 		A66DABAA2A12FA430071D0F8 /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABA92A12FA430071D0F8 /* ColorPickerView.swift */; };
 		A66DABAC2A146D560071D0F8 /* CustomProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABAB2A146D550071D0F8 /* CustomProgressView.swift */; };
+		A66DABAE2A146F880071D0F8 /* LinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABAD2A146F880071D0F8 /* LinkView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		A66DABA72A12F8240071D0F8 /* DatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerView.swift; sourceTree = "<group>"; };
 		A66DABA92A12FA430071D0F8 /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 		A66DABAB2A146D550071D0F8 /* CustomProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomProgressView.swift; sourceTree = "<group>"; };
+		A66DABAD2A146F880071D0F8 /* LinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				A66DABA72A12F8240071D0F8 /* DatePickerView.swift */,
 				A66DABA92A12FA430071D0F8 /* ColorPickerView.swift */,
 				A66DABAB2A146D550071D0F8 /* CustomProgressView.swift */,
+				A66DABAD2A146F880071D0F8 /* LinkView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
 			);
@@ -182,6 +185,7 @@
 				A66DABAA2A12FA430071D0F8 /* ColorPickerView.swift in Sources */,
 				A66DAB982A12D0F50071D0F8 /* ImagesView.swift in Sources */,
 				A66DABA62A12F4B80071D0F8 /* TextEditorView.swift in Sources */,
+				A66DABAE2A146F880071D0F8 /* LinkView.swift in Sources */,
 				A66DABA42A12E8280071D0F8 /* TextFieldView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

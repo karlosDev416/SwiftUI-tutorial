@@ -13,7 +13,8 @@ struct SwiftUI_tutorialApp: App {
         WindowGroup {
 //            StacksView()
 //            ButtonView()
-            TextFieldView()
+//            TextFieldView()
+            LinkView()
         }
     }
 }
