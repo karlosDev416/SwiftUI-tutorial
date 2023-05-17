@@ -14,7 +14,8 @@ struct SwiftUI_tutorialApp: App {
 //            StacksView()
 //            ButtonView()
 //            TextFieldView()
-            LinkView()
+//            LinkView()
+            FormView()
         }
     }
 }
