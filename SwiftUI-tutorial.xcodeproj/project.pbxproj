@@ -26,6 +26,7 @@
 		A66DABB02A1471550071D0F8 /* ToggleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABAF2A1471550071D0F8 /* ToggleView.swift */; };
 		A66DABB22A14729E0071D0F8 /* StepperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABB12A14729E0071D0F8 /* StepperView.swift */; };
 		A66DABB42A1475AD0071D0F8 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABB32A1475AD0071D0F8 /* SliderView.swift */; };
+		A66DABB62A1479020071D0F8 /* LazyGridsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABB52A1479020071D0F8 /* LazyGridsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		A66DABAF2A1471550071D0F8 /* ToggleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleView.swift; sourceTree = "<group>"; };
 		A66DABB12A14729E0071D0F8 /* StepperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperView.swift; sourceTree = "<group>"; };
 		A66DABB32A1475AD0071D0F8 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
+		A66DABB52A1479020071D0F8 /* LazyGridsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				A66DABB32A1475AD0071D0F8 /* SliderView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
+				A66DABB52A1479020071D0F8 /* LazyGridsView.swift */,
 			);
 			path = "SwiftUI-tutorial";
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				A66DAB882A12C0840071D0F8 /* SwiftUI_tutorialApp.swift in Sources */,
 				A66DABAC2A146D560071D0F8 /* CustomProgressView.swift in Sources */,
 				A66DABAA2A12FA430071D0F8 /* ColorPickerView.swift in Sources */,
+				A66DABB62A1479020071D0F8 /* LazyGridsView.swift in Sources */,
 				A66DABB22A14729E0071D0F8 /* StepperView.swift in Sources */,
 				A66DABB42A1475AD0071D0F8 /* SliderView.swift in Sources */,
 				A66DAB982A12D0F50071D0F8 /* ImagesView.swift in Sources */,
