@@ -29,6 +29,7 @@
 		A66DABB62A1479020071D0F8 /* LazyGridsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABB52A1479020071D0F8 /* LazyGridsView.swift */; };
 		A66DABB82A147DCA0071D0F8 /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABB72A147DCA0071D0F8 /* FormView.swift */; };
 		A66DABBA2A1482630071D0F8 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A66DABB92A1482630071D0F8 /* ListView.swift */; };
+		A6DF45562A16AA3700F456CB /* CustomNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45552A16AA3700F456CB /* CustomNavigationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		A66DABB52A1479020071D0F8 /* LazyGridsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridsView.swift; sourceTree = "<group>"; };
 		A66DABB72A147DCA0071D0F8 /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
 		A66DABB92A1482630071D0F8 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		A6DF45552A16AA3700F456CB /* CustomNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavigationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				A66DABB52A1479020071D0F8 /* LazyGridsView.swift */,
 				A66DABB72A147DCA0071D0F8 /* FormView.swift */,
 				A66DABB92A1482630071D0F8 /* ListView.swift */,
+				A6DF45552A16AA3700F456CB /* CustomNavigationView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
 			);
@@ -194,6 +197,7 @@
 				A66DAB8A2A12C0840071D0F8 /* StacksView.swift in Sources */,
 				A66DAB9E2A12DBDE0071D0F8 /* LabelsView.swift in Sources */,
 				A66DABA22A12E2610071D0F8 /* ButtonView.swift in Sources */,
+				A6DF45562A16AA3700F456CB /* CustomNavigationView.swift in Sources */,
 				A66DABA82A12F8240071D0F8 /* DatePickerView.swift in Sources */,
 				A66DAB9A2A12D77E0071D0F8 /* IconsView.swift in Sources */,
 				A66DABA02A12DFE10071D0F8 /* TextView.swift in Sources */,
