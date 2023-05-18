@@ -33,6 +33,7 @@
 		A6DF45582A16B44500F456CB /* CustomTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45572A16B44500F456CB /* CustomTabView.swift */; };
 		A6DF455A2A16BD7B00F456CB /* CustomPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45592A16BD7B00F456CB /* CustomPageView.swift */; };
 		A6DF455C2A16CDF600F456CB /* FullScreenCoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF455B2A16CDF600F456CB /* FullScreenCoverView.swift */; };
+		A6DF455E2A16D0A900F456CB /* AlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF455D2A16D0A900F456CB /* AlertView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		A6DF45572A16B44500F456CB /* CustomTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabView.swift; sourceTree = "<group>"; };
 		A6DF45592A16BD7B00F456CB /* CustomPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPageView.swift; sourceTree = "<group>"; };
 		A6DF455B2A16CDF600F456CB /* FullScreenCoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenCoverView.swift; sourceTree = "<group>"; };
+		A6DF455D2A16D0A900F456CB /* AlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				A6DF45572A16B44500F456CB /* CustomTabView.swift */,
 				A6DF45592A16BD7B00F456CB /* CustomPageView.swift */,
 				A6DF455B2A16CDF600F456CB /* FullScreenCoverView.swift */,
+				A6DF455D2A16D0A900F456CB /* AlertView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
 			);
@@ -208,6 +211,7 @@
 				A66DABA22A12E2610071D0F8 /* ButtonView.swift in Sources */,
 				A6DF45562A16AA3700F456CB /* CustomNavigationView.swift in Sources */,
 				A66DABA82A12F8240071D0F8 /* DatePickerView.swift in Sources */,
+				A6DF455E2A16D0A900F456CB /* AlertView.swift in Sources */,
 				A66DAB9A2A12D77E0071D0F8 /* IconsView.swift in Sources */,
 				A66DABA02A12DFE10071D0F8 /* TextView.swift in Sources */,
 				A6DF455A2A16BD7B00F456CB /* CustomPageView.swift in Sources */,
