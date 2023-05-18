@@ -34,6 +34,7 @@
 		A6DF455A2A16BD7B00F456CB /* CustomPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45592A16BD7B00F456CB /* CustomPageView.swift */; };
 		A6DF455C2A16CDF600F456CB /* FullScreenCoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF455B2A16CDF600F456CB /* FullScreenCoverView.swift */; };
 		A6DF455E2A16D0A900F456CB /* AlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF455D2A16D0A900F456CB /* AlertView.swift */; };
+		A6DF45602A16D88200F456CB /* ActionSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF455F2A16D88200F456CB /* ActionSheetView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		A6DF45592A16BD7B00F456CB /* CustomPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPageView.swift; sourceTree = "<group>"; };
 		A6DF455B2A16CDF600F456CB /* FullScreenCoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenCoverView.swift; sourceTree = "<group>"; };
 		A6DF455D2A16D0A900F456CB /* AlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertView.swift; sourceTree = "<group>"; };
+		A6DF455F2A16D88200F456CB /* ActionSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				A6DF45592A16BD7B00F456CB /* CustomPageView.swift */,
 				A6DF455B2A16CDF600F456CB /* FullScreenCoverView.swift */,
 				A6DF455D2A16D0A900F456CB /* AlertView.swift */,
+				A6DF455F2A16D88200F456CB /* ActionSheetView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
 			);
@@ -218,6 +221,7 @@
 				A6DF45582A16B44500F456CB /* CustomTabView.swift in Sources */,
 				A6DF455C2A16CDF600F456CB /* FullScreenCoverView.swift in Sources */,
 				A66DAB9C2A12DA220071D0F8 /* StateView.swift in Sources */,
+				A6DF45602A16D88200F456CB /* ActionSheetView.swift in Sources */,
 				A66DAB882A12C0840071D0F8 /* SwiftUI_tutorialApp.swift in Sources */,
 				A66DABAC2A146D560071D0F8 /* CustomProgressView.swift in Sources */,
 				A66DABAA2A12FA430071D0F8 /* ColorPickerView.swift in Sources */,
