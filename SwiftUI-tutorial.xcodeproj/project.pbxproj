@@ -38,6 +38,7 @@
 		A6DF45622A16DA7200F456CB /* ContextMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45612A16DA7200F456CB /* ContextMenuView.swift */; };
 		A6DF45642A184B1300F456CB /* TapGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45632A184B1300F456CB /* TapGestureView.swift */; };
 		A6DF45662A184FB200F456CB /* DragGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45652A184FB200F456CB /* DragGestureView.swift */; };
+		A6DF45682A185D5D00F456CB /* StateBindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45672A185D5D00F456CB /* StateBindingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +74,7 @@
 		A6DF45612A16DA7200F456CB /* ContextMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuView.swift; sourceTree = "<group>"; };
 		A6DF45632A184B1300F456CB /* TapGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureView.swift; sourceTree = "<group>"; };
 		A6DF45652A184FB200F456CB /* DragGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureView.swift; sourceTree = "<group>"; };
+		A6DF45672A185D5D00F456CB /* StateBindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBindingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				A6DF45652A184FB200F456CB /* DragGestureView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
+				A6DF45672A185D5D00F456CB /* StateBindingView.swift */,
 			);
 			path = "SwiftUI-tutorial";
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				A66DABAE2A146F880071D0F8 /* LinkView.swift in Sources */,
 				A66DABB02A1471550071D0F8 /* ToggleView.swift in Sources */,
 				A66DABB82A147DCA0071D0F8 /* FormView.swift in Sources */,
+				A6DF45682A185D5D00F456CB /* StateBindingView.swift in Sources */,
 				A66DABA42A12E8280071D0F8 /* TextFieldView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
