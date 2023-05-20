@@ -39,6 +39,7 @@
 		A6DF45642A184B1300F456CB /* TapGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45632A184B1300F456CB /* TapGestureView.swift */; };
 		A6DF45662A184FB200F456CB /* DragGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45652A184FB200F456CB /* DragGestureView.swift */; };
 		A6DF45682A185D5D00F456CB /* StateBindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45672A185D5D00F456CB /* StateBindingView.swift */; };
+		A6DF456A2A18706700F456CB /* ObservedObjectStateObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45692A18706700F456CB /* ObservedObjectStateObjectView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -75,6 +76,7 @@
 		A6DF45632A184B1300F456CB /* TapGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureView.swift; sourceTree = "<group>"; };
 		A6DF45652A184FB200F456CB /* DragGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureView.swift; sourceTree = "<group>"; };
 		A6DF45672A185D5D00F456CB /* StateBindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBindingView.swift; sourceTree = "<group>"; };
+		A6DF45692A18706700F456CB /* ObservedObjectStateObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservedObjectStateObjectView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,9 +138,10 @@
 				A6DF45612A16DA7200F456CB /* ContextMenuView.swift */,
 				A6DF45632A184B1300F456CB /* TapGestureView.swift */,
 				A6DF45652A184FB200F456CB /* DragGestureView.swift */,
+				A6DF45672A185D5D00F456CB /* StateBindingView.swift */,
+				A6DF45692A18706700F456CB /* ObservedObjectStateObjectView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
-				A6DF45672A185D5D00F456CB /* StateBindingView.swift */,
 			);
 			path = "SwiftUI-tutorial";
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				A6DF455A2A16BD7B00F456CB /* CustomPageView.swift in Sources */,
 				A6DF45582A16B44500F456CB /* CustomTabView.swift in Sources */,
 				A6DF455C2A16CDF600F456CB /* FullScreenCoverView.swift in Sources */,
+				A6DF456A2A18706700F456CB /* ObservedObjectStateObjectView.swift in Sources */,
 				A66DAB9C2A12DA220071D0F8 /* StateView.swift in Sources */,
 				A6DF45602A16D88200F456CB /* ActionSheetView.swift in Sources */,
 				A66DAB882A12C0840071D0F8 /* SwiftUI_tutorialApp.swift in Sources */,
