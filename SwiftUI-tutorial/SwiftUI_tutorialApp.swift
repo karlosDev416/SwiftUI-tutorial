@@ -17,7 +17,8 @@ struct SwiftUI_tutorialApp: App {
 //            LinkView()
 //            FormView()
 //            AlertView()
-            ContextMenuView()
+//            ContextMenuView()
+            TapGestureView()
         }
     }
 }

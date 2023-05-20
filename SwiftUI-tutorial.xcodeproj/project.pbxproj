@@ -36,6 +36,7 @@
 		A6DF455E2A16D0A900F456CB /* AlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF455D2A16D0A900F456CB /* AlertView.swift */; };
 		A6DF45602A16D88200F456CB /* ActionSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF455F2A16D88200F456CB /* ActionSheetView.swift */; };
 		A6DF45622A16DA7200F456CB /* ContextMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45612A16DA7200F456CB /* ContextMenuView.swift */; };
+		A6DF45642A184B1300F456CB /* TapGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45632A184B1300F456CB /* TapGestureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		A6DF455D2A16D0A900F456CB /* AlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertView.swift; sourceTree = "<group>"; };
 		A6DF455F2A16D88200F456CB /* ActionSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetView.swift; sourceTree = "<group>"; };
 		A6DF45612A16DA7200F456CB /* ContextMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuView.swift; sourceTree = "<group>"; };
+		A6DF45632A184B1300F456CB /* TapGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				A6DF455D2A16D0A900F456CB /* AlertView.swift */,
 				A6DF455F2A16D88200F456CB /* ActionSheetView.swift */,
 				A6DF45612A16DA7200F456CB /* ContextMenuView.swift */,
+				A6DF45632A184B1300F456CB /* TapGestureView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
 			);
@@ -218,6 +221,7 @@
 				A6DF45562A16AA3700F456CB /* CustomNavigationView.swift in Sources */,
 				A66DABA82A12F8240071D0F8 /* DatePickerView.swift in Sources */,
 				A6DF455E2A16D0A900F456CB /* AlertView.swift in Sources */,
+				A6DF45642A184B1300F456CB /* TapGestureView.swift in Sources */,
 				A6DF45622A16DA7200F456CB /* ContextMenuView.swift in Sources */,
 				A66DAB9A2A12D77E0071D0F8 /* IconsView.swift in Sources */,
 				A66DABA02A12DFE10071D0F8 /* TextView.swift in Sources */,
