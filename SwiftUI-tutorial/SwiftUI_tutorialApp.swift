@@ -16,7 +16,8 @@ struct SwiftUI_tutorialApp: App {
 //            TextFieldView()
 //            LinkView()
 //            FormView()
-            AlertView()
+//            AlertView()
+            ContextMenuView()
         }
     }
 }
