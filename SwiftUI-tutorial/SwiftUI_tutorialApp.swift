@@ -21,7 +21,8 @@ struct SwiftUI_tutorialApp: App {
 //            TapGestureView()
 //            AppStorageView()
 //            SceneStorageView()
-            AsyncImageView()
+//            AsyncImageView()
+            SwipeActionsAndRefreshableView()
         }
     }
 }
