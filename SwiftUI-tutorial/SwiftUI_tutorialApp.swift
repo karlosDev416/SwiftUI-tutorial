@@ -20,7 +20,8 @@ struct SwiftUI_tutorialApp: App {
 //            ContextMenuView()
 //            TapGestureView()
 //            AppStorageView()
-            SceneStorageView()
+//            SceneStorageView()
+            AsyncImageView()
         }
     }
 }
