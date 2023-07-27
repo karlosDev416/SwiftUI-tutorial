@@ -32,6 +32,9 @@
 		A6A1BCA12A72117F0011FE14 /* SceneStorageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1BCA02A72117F0011FE14 /* SceneStorageView.swift */; };
 		A6A1BCA32A7215590011FE14 /* AsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1BCA22A7215590011FE14 /* AsyncImageView.swift */; };
 		A6A1BCA52A721CB20011FE14 /* SwipeActionsAndRefreshableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1BCA42A721CB20011FE14 /* SwipeActionsAndRefreshableView.swift */; };
+		A6A1BCA72A7221500011FE14 /* GeometryReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1BCA62A7221500011FE14 /* GeometryReaderView.swift */; };
+		A6A1BCA92A72235D0011FE14 /* GeometryReaderStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1BCA82A72235D0011FE14 /* GeometryReaderStacks.swift */; };
+		A6C557112A722699001280B8 /* GeometryReaderScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C557102A722699001280B8 /* GeometryReaderScrollView.swift */; };
 		A6DF45562A16AA3700F456CB /* CustomNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45552A16AA3700F456CB /* CustomNavigationView.swift */; };
 		A6DF45582A16B44500F456CB /* CustomTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45572A16B44500F456CB /* CustomTabView.swift */; };
 		A6DF455A2A16BD7B00F456CB /* CustomPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DF45592A16BD7B00F456CB /* CustomPageView.swift */; };
@@ -76,6 +79,9 @@
 		A6A1BCA02A72117F0011FE14 /* SceneStorageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneStorageView.swift; sourceTree = "<group>"; };
 		A6A1BCA22A7215590011FE14 /* AsyncImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageView.swift; sourceTree = "<group>"; };
 		A6A1BCA42A721CB20011FE14 /* SwipeActionsAndRefreshableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionsAndRefreshableView.swift; sourceTree = "<group>"; };
+		A6A1BCA62A7221500011FE14 /* GeometryReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderView.swift; sourceTree = "<group>"; };
+		A6A1BCA82A72235D0011FE14 /* GeometryReaderStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderStacks.swift; sourceTree = "<group>"; };
+		A6C557102A722699001280B8 /* GeometryReaderScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderScrollView.swift; sourceTree = "<group>"; };
 		A6DF45552A16AA3700F456CB /* CustomNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavigationView.swift; sourceTree = "<group>"; };
 		A6DF45572A16B44500F456CB /* CustomTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabView.swift; sourceTree = "<group>"; };
 		A6DF45592A16BD7B00F456CB /* CustomPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPageView.swift; sourceTree = "<group>"; };
@@ -161,6 +167,9 @@
 				A6A1BCA02A72117F0011FE14 /* SceneStorageView.swift */,
 				A6A1BCA22A7215590011FE14 /* AsyncImageView.swift */,
 				A6A1BCA42A721CB20011FE14 /* SwipeActionsAndRefreshableView.swift */,
+				A6A1BCA62A7221500011FE14 /* GeometryReaderView.swift */,
+				A6A1BCA82A72235D0011FE14 /* GeometryReaderStacks.swift */,
+				A6C557102A722699001280B8 /* GeometryReaderScrollView.swift */,
 				A66DAB8B2A12C0860071D0F8 /* Assets.xcassets */,
 				A66DAB8D2A12C0860071D0F8 /* Preview Content */,
 			);
@@ -245,6 +254,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6C557112A722699001280B8 /* GeometryReaderScrollView.swift in Sources */,
 				A66DAB8A2A12C0840071D0F8 /* StacksView.swift in Sources */,
 				A6DF45702A1876C800F456CB /* EnvironmentObjectView3.swift in Sources */,
 				A66DAB9E2A12DBDE0071D0F8 /* LabelsView.swift in Sources */,
@@ -277,10 +287,12 @@
 				A66DAB982A12D0F50071D0F8 /* ImagesView.swift in Sources */,
 				A66DABA62A12F4B80071D0F8 /* TextEditorView.swift in Sources */,
 				A6A1BCA32A7215590011FE14 /* AsyncImageView.swift in Sources */,
+				A6A1BCA72A7221500011FE14 /* GeometryReaderView.swift in Sources */,
 				A66DABAE2A146F880071D0F8 /* LinkView.swift in Sources */,
 				A66DABB02A1471550071D0F8 /* ToggleView.swift in Sources */,
 				A66DABB82A147DCA0071D0F8 /* FormView.swift in Sources */,
 				A6DF456C2A1875B300F456CB /* EnvironmentObjectView.swift in Sources */,
+				A6A1BCA92A72235D0011FE14 /* GeometryReaderStacks.swift in Sources */,
 				A6DF45682A185D5D00F456CB /* StateBindingView.swift in Sources */,
 				A66DABA42A12E8280071D0F8 /* TextFieldView.swift in Sources */,
 			);

@@ -22,7 +22,8 @@ struct SwiftUI_tutorialApp: App {
 //            AppStorageView()
 //            SceneStorageView()
 //            AsyncImageView()
-            SwipeActionsAndRefreshableView()
+//            SwipeActionsAndRefreshableView()
+            GeometryReaderView()
         }
     }
 }
